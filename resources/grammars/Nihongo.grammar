@@ -1,0 +1,27 @@
+example
++  _nounphrase .
++ kore wa _noun desu .
++ _nounphrase desu .
++ _nounpharse wa _adj desu
+
+noun
++ bangohan
++ eiga
++ ongaku
++ zasshi
++ supoutsu
++ deeto
++ osake
++ daigaku
+
+nounphrase
++ watashi no _noun
++ anata no _noun
++ kono _noun
++ sono _noun
++ ano _noun
++ _noun
+
+adj
++ ii
++ hayai

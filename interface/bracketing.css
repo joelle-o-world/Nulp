@@ -1,0 +1,15 @@
+.part_of_speech {
+  display:inline-block;
+  border:1px solid #ccc;
+  padding:5px;
+}
+.pos_tag {
+  display:block;
+  font-size:75%;
+  font-style: italic;
+}
+.punctuation {
+  background-color: #666;
+  color:white;
+  padding:5px;
+}
