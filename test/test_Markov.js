@@ -1,4 +1,4 @@
-const Markov = require("../src/Markov.js")
+const Markov = require("node-markov")
 const getRandomWords = require("../src/getRandomWords.js")
 const getCuttings = require("../src/getCuttings.js")
 const argv = require("minimist")(process.argv.slice(2))

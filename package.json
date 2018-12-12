@@ -1,0 +1,25 @@
+{
+  "name": "nulp",
+  "version": "1.0.0",
+  "description": "A messy set natural language tools",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelyjoel/Nulp.git"
+  },
+  "author": "Joel Plowr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelyjoel/Nulp/issues"
+  },
+  "homepage": "https://github.com/joelyjoel/Nulp#readme",
+  "dependencies": {
+    "node-markov": "^1.0.0"
+  }
+}
